@@ -1,7 +1,6 @@
 # ML-training
 
 ## Tools:
-The following 
 * NumPy
 * SciPy
 * Scikit-Learn
@@ -13,8 +12,9 @@ The following
 * Keras
 * h5py
 * pillow
+* Flask
 
-## Setup
+## How to setup Setup
 * pip install jupyter
 * pip install numpy
 * pip install scipy
@@ -27,4 +27,5 @@ The following
 * pip install keras
 * pip install pillow
 * pip install h5py
+* pip install Flask
 * pip install seaborn
