@@ -1,5 +1,3 @@
-# ML-training
-
 ## Tools:
 * NumPy
 * SciPy
