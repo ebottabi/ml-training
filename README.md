@@ -12,7 +12,7 @@
 * pillow
 * Flask
 
-## How to setup Setup
+## How to setup
 * pip install jupyter
 * pip install numpy
 * pip install scipy
